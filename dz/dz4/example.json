@@ -1,0 +1,17 @@
+{
+    "animals":[
+        {
+            "name":"horse"
+        },
+        {
+            "name":"dog"
+        },
+        {
+            "name":"hen"
+        },
+        {
+            "name":"tiger"
+        }
+    
+    ]
+}
